@@ -1,0 +1,30 @@
+.containerNotfaund{ 
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.containerNotfaund h1{ 
+    font-size: 70px;
+    margin-top: 50px;
+    user-select: none;
+}
+
+.containerNotfaund h2{ 
+    text-align: center;
+    margin-top: 10px;
+    font-size: 40px;
+    margin-bottom: 50px;
+}
+
+.containerNotfaund button{ 
+    padding: 15px;
+    background-color:#16A34A ;
+    color: #FFF;
+    font-weight: bold;
+    border: 0;
+    cursor: pointer;
+    border-radius: 4px;
+}

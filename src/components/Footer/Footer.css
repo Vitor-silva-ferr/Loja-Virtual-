@@ -1,0 +1,40 @@
+.containerFooter {
+    width: 100%;
+    padding: 40px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #242020;
+    margin-top: 100px;
+    flex-wrap: wrap;
+}
+
+.liInfo a {
+    text-decoration: none;
+}
+
+.liInfo h1 {
+    color: #16A34A;
+}
+
+.liInfo h2 {
+    color: #fff;
+    margin: 15px 0;
+}
+
+.liInfo {
+    margin: 20px 30px;
+}
+
+.liInfo ul {
+    list-style: none;
+    margin-top: 20px;
+}
+
+.liInfo li {
+    margin: 10px 0;
+    color: #FFF;
+}
+
+.liInfo li:hover {
+    text-decoration: underline;
+}

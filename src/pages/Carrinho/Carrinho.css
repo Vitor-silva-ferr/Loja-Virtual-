@@ -1,0 +1,85 @@
+.containerCarrinho {
+    display: flex;
+    flex-direction: column;
+    padding: 40px;
+    height: 100vh;
+}
+
+.containerCarrinho h1 {
+    font-size: 30px;
+}
+
+.containerCarrinho ul {
+    list-style: none;
+    width: 100%;
+}
+
+.containerCarrinho li {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 15px;
+    background-color: #DDD;
+    padding: 15px;
+    border-radius: 4px;
+}
+
+.containerCarrinho li img {
+    background-color: #FFF;
+    padding: 10px;
+    max-width: 90px;
+}
+
+.containerCarrinho li h1 {
+    font-size: 20px;
+}
+
+.containerCarrinho li h2 {
+    font-size: 20px;
+    color: #16A34A;
+}
+
+.buttonActios button, .Buttonpedido {
+    padding: 10px;
+    margin: 0 10px;
+    cursor: pointer;
+    border-radius: 4px;
+    font-weight: bold;
+}
+
+.buttonDetails{ 
+    border: 0;
+    border: 1px solid #000; 
+    background-color: #fff;
+}
+
+.buttonDelete{ 
+    border: 0;
+    background-color: red;
+    color: #fff;
+}
+
+.infosTotal{ 
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    margin-top: 20px;
+    padding-right: 50px;
+}
+
+.infosTotal h1{ 
+    margin: 0 25px;
+    font-size: 25px;
+}
+
+.infosTotal span{ 
+    color: #16A34A;
+}
+
+.Buttonpedido{ 
+    padding:15px;
+    border: 0;
+    background-color: #16A34A;
+    color: #FFF;
+}
