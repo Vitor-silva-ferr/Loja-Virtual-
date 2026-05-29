@@ -38,48 +38,6 @@ Além disso, o sistema utiliza notificações com Toastify para melhorar a exper
 
 ---
 
-## ⚙️ Instalação
-
-Clone o repositório:
-
-```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-```
-
-Entre na pasta do projeto:
-
-```bash
-cd nome-do-projeto
-```
-
-Instale as dependências:
-
-```bash
-npm install
-```
-
-Inicie o projeto:
-
-```bash
-npm run dev
-```
-
----
-
-## 📁 Estrutura do Projeto
-
-```bash
-src/
- ├── components/
- ├── pages/
- ├── services/
- ├── routes/
- ├── styles/
- └── App.jsx
-```
-
----
-
 ## 🎯 Objetivo do Projeto
 
 Este projeto foi desenvolvido com o objetivo de praticar:
@@ -90,13 +48,6 @@ Este projeto foi desenvolvido com o objetivo de praticar:
 * Componentização no React
 * Experiência do usuário com notificações
 
----
-
-## 📸 Preview
-
-Em breve...
-
----
 
 ## 👨‍💻 Autor
 
